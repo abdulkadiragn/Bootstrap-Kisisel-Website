@@ -1,0 +1,12 @@
+.nav-link.active{
+    color: red !important;
+}
+
+.section-bg{
+    background-image: url('image/3333.jpg');
+    background-size: cover;
+
+}
+#projeDetay{
+    
+}
